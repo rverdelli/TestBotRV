@@ -1,0 +1,50 @@
+{
+  "name": "BotTestRV",
+  "padlock": "dIbD3uXWuFssUxx1hXIIvQ==!2y5UT1JuhBYTM8uK7QfmmG9FSGi6E5Np+V72tdxgoZRd4ZuIcpydTlWqksZvQZk5",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "5a4a77d0-d0dc-4fec-a457-56f29545a7b6",
+      "subscriptionId": "edbff727-2651-4fc4-9af3-3b665135adb4",
+      "resourceGroup": "Azure-Services-Test",
+      "serviceName": "BotTestRV",
+      "type": "abs",
+      "name": "BotTestRV",
+      "id": "1"
+    },
+    {
+      "connectionString": "RKWJEMTq+grKyTeXn28k4A==!ipeWjCTnDrgxQoZgmwOzIQ3y0lusThIwPAL48tY8myVP6ggH1WjdnupnGYe3ZN5dNjjxq5ThjW/H59/yuf9/R8NHFgkgLTXi7GKp/T2tqW0m+9wKcqKWYksn5mtrW+yud/zxtoeCc0miw5W5PaiJJVPj4DKbcF3RtmR8Vu5R4nE331kPINiHB9tO27D76gyOEiqvPdZIJ9+VnFiuf6X9iw==",
+      "tenantId": "5a4a77d0-d0dc-4fec-a457-56f29545a7b6",
+      "subscriptionId": "edbff727-2651-4fc4-9af3-3b665135adb4",
+      "resourceGroup": "Azure-Services-Test",
+      "serviceName": "bottestrva142",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "dc9f43c2-749e-4a0e-b956-1779a7657c3f",
+      "appPassword": "oq6K2vIPtQvUZBku698HFA==!302aqKsXZHJ5JwpwhhDGzU3PJNWtATf+fbeWpxg9qRc=",
+      "endpoint": "https://bottestrv.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "8cf60570-94bb-4072-a75f-2b85e0f9a05f",
+      "authoringKey": "mpRmyhjZ4mgBtinDEmOOJA==!ZrIMHM/BkZ7JpdiAcrvkT5nw0DGQythJuj2l+tK0MoOIESYdEr57U+rvGziGS2lX",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
