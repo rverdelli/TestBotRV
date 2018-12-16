@@ -10,3 +10,15 @@ Z:\My Drive\Production and Field operations\10. MISC\Personal Developments\BotTe
 Z:\My Drive\Production and Field operations\10. MISC\Personal Developments\BotTestRV-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
 Z:\My Drive\Production and Field operations\10. MISC\Personal Developments\BotTestRV-src\obj\Debug\netcoreapp2.0\BasicBot.dll
 Z:\My Drive\Production and Field operations\10. MISC\Personal Developments\BotTestRV-src\obj\Debug\netcoreapp2.0\BasicBot.pdb
+C:\GIT\TestBotRV\bin\Debug\netcoreapp2.0\BotTestRV.bot
+C:\GIT\TestBotRV\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\GIT\TestBotRV\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\GIT\TestBotRV\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\GIT\TestBotRV\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\GIT\TestBotRV\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\GIT\TestBotRV\obj\Debug\netcoreapp2.0\BasicBot.csprojResolveAssemblyReference.cache
+C:\GIT\TestBotRV\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\GIT\TestBotRV\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\GIT\TestBotRV\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\GIT\TestBotRV\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\GIT\TestBotRV\obj\Debug\netcoreapp2.0\BasicBot.pdb
