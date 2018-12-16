@@ -12228,11 +12228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\My Drive\\Production and Field operations\\10. MISC\\Personal Developments\\BotTestRV-src\\BasicBot.csproj",
+      "projectUniqueName": "C:\\GIT\\TestBotRV\\BasicBot.csproj",
       "projectName": "BasicBot",
-      "projectPath": "Z:\\My Drive\\Production and Field operations\\10. MISC\\Personal Developments\\BotTestRV-src\\BasicBot.csproj",
+      "projectPath": "C:\\GIT\\TestBotRV\\BasicBot.csproj",
       "packagesPath": "C:\\Users\\rverdelli\\.nuget\\packages\\",
-      "outputPath": "Z:\\My Drive\\Production and Field operations\\10. MISC\\Personal Developments\\BotTestRV-src\\obj\\",
+      "outputPath": "C:\\GIT\\TestBotRV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

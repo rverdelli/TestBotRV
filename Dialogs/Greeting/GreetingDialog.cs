@@ -181,7 +181,7 @@ namespace Microsoft.BotBuilderSamples
             }
             else
             {
-                await promptContext.Context.SendActivityAsync($"Names needs to be at least `{NameLengthMinValue}` characters long.");
+                await promptContext.Context.SendActivityAsync($"Names needs to be at least `{NameLengthMinValue}` characterssss long.");
                 return false;
             }
         }
