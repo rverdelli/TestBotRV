@@ -258,7 +258,7 @@ namespace Microsoft.BotBuilderSamples
                         // Capitalize and set new city.
                         var newCity = (string)entities[city][0];
 
-                        if (newCity.Equals("Milan"))
+                        if (newCity != "Bergamo")
                             newCity = "the best city in the world, Milan";
 
                         greetingState.City = char.ToUpper(newCity[0]) + newCity.Substring(1);
